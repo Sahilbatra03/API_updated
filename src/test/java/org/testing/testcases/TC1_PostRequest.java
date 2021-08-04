@@ -16,6 +16,7 @@ import com.jayway.restassured.response.Response;
 public class TC1_PostRequest {
 	static String responseIdValue;
 	
+	// Comment added to test auto build
 	@Test
 	public static void TC1() throws IOException {
 		// TODO Auto-generated method stub
